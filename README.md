@@ -39,3 +39,41 @@ DIY:
 AIY Do-it-yourself artificial intelligence:  https://aiyprojects.withgoogle.com/vision/#makers-guide
 first tensor flow js model: file:///C:/WORK/code/tensorflow_js/tensordemo.html
 Predicting crypto prices using machine learning: https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/
+
+
+
+
+
+
+PALN:
+monday -> machine learning kaggle and algorithm plus kata
+Tuesday -> datastructure and coding/architecture plus kata
+wed  ->  ncle bob, machine learning google crash course and datastructure
+thursday -> algorithm and python
+friday -> google tech dev guide and programming challenge
+Sat -> project
+Sun -> project
+
+Resource:
+google tech dev guide
+Google mL crash course
+AI driverless car coursera
+Katas TDD
+Challenge sites
+Machine learning kaggle
+Youtube machine elarning course
+GIT programming interview university
+
+
+Later:
+Blockchain IBM book & cloud
+
+
+Note:
+Use Flashcard anki
+Use algorithm whiteboard technique (GIT)
+create flashcards for all search and datastrucuture code and practice daily
+
+pRIORITY:
+iNTERVIEW READY: algorithm plus kata, datastructure and coding/architecture plus kata, ncle bob, google tech dev guide and programming challenge, projects without dependency
+lEARN CUTTINGEDGE TECHNOLOGY
